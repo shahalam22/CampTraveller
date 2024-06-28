@@ -9,38 +9,38 @@ export const NAV_LINKS = [
   
   // CAMP SECTION
   export const PEOPLE_URL = [
-    '/images/person-1.png',
-    '/images/person-2.png',
-    '/images/person-3.png',
-    '/images/person-4.png',
+    'https://shahalam22.github.io/CampTraveller/person-1.png',
+    'https://shahalam22.github.io/CampTraveller/person-2.png',
+    'https://shahalam22.github.io/CampTraveller/person-3.png',
+    'https://shahalam22.github.io/CampTraveller/person-4.png',
   ];
   
   // FEATURES SECTION
   export const FEATURES = [
     {
       title: 'Real maps can be offline',
-      icon: '/images/map.svg',
+      icon: 'https://shahalam22.github.io/CampTraveller/map.svg',
       variant: 'green',
       description:
         'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
     },
     {
       title: 'Set an adventure schedule',
-      icon: '/images/calendar.svg',
+      icon: 'https://shahalam22.github.io/CampTraveller/calendar.svg',
       variant: 'green',
       description:
         "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
     },
     {
       title: 'Technology using augment reality',
-      icon: '/images/tech.svg',
+      icon: 'https://shahalam22.github.io/CampTraveller/tech.svg',
       variant: 'green',
       description:
         'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
     },
     {
       title: 'Many new locations every month',
-      icon: '/images/location.svg',
+      icon: 'https://shahalam22.github.io/CampTraveller/location.svg',
       variant: 'orange',
       description:
         'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
@@ -77,10 +77,10 @@ export const NAV_LINKS = [
   export const SOCIALS = {
     title: 'Social',
     links: [
-      '/images/facebook.svg',
-      '/images/instagram.svg',
-      '/images/twitter.svg',
-      '/images/youtube.svg',
-      '/images/wordpress.svg',
+      'https://shahalam22.github.io/CampTraveller/facebook.svg',
+      'https://shahalam22.github.io/CampTraveller/instagram.svg',
+      'https://shahalam22.github.io/CampTraveller/twitter.svg',
+      'https://shahalam22.github.io/CampTraveller/youtube.svg',
+      'https://shahalam22.github.io/CampTraveller/wordpress.svg',
     ],
   };
