@@ -6,7 +6,7 @@ function Guide() {
     <section className='flexCenter flex-col'>
         <div className='padding-container max-container w-full pb-24'>
             <Image 
-                src='/images/camp.svg'
+                src='https://shahalam22.github.io/CampTraveller/camp.svg'
                 alt='camp'
                 width={50}
                 height={50}
@@ -24,7 +24,7 @@ function Guide() {
 
         <div className='flexCenter max-container relative w-full'>
             <Image 
-                src='/images/boat.png'
+                src='https://shahalam22.github.io/CampTraveller/boat.png'
                 alt='boat'
                 height={580}
                 width={1440}
@@ -32,7 +32,7 @@ function Guide() {
             />
             <div className='absolute flex bg-white py-8 pl-5 pr-7 gap-3 rounded-3xl border top-50 shadow-md md:left-[5%] lg:top-20'>
                 <Image 
-                    src='/images/meter.svg'
+                    src='https://shahalam22.github.io/CampTraveller/meter.svg'
                     alt='meter'
                     height={158}
                     width={16}

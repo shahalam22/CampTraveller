@@ -14,21 +14,21 @@ function GetApp() {
                         type='button'
                         title='App Store'
                         variant='btn_white'
-                        icon='/apple.svg'
+                        icon='https://shahalam22.github.io/CampTraveller/apple.svg'
                         full
                     />
                     <Button 
                         type='button'
                         title='Play Store'
                         variant='btn_dark_green_outline'
-                        icon='/android.svg'
+                        icon='https://shahalam22.github.io/CampTraveller/android.svg'
                         full
                     />
                 </div>
             </div>
 
             <div className='flex flex-1 items-center justify-end'>
-                <Image src='/images/phones.png' alt='phone' height={870} width={550}/>
+                <Image src='https://shahalam22.github.io/CampTraveller/phones.png' alt='phone' height={870} width={550}/>
             </div>
         </div>
     </section>
