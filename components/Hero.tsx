@@ -10,7 +10,7 @@ function Hero() {
         {/* LEFT */}
         <div className='relative z-20 flex flex-1 flex-col xl:w-1/2'>
             <Image 
-                src='/CampTraveller/images/camp.svg'
+                src='/images/camp.svg'
                 alt='camp'
                 height={50}
                 width={50}
@@ -26,7 +26,7 @@ function Hero() {
             <div className='my-11 flex flex-wrap gap-5'>
                 <div className='flex items-center gap-2'>
                     {Array(5).fill(1).map((_, index) => (
-                        <Image src='/CampTraveller/images/star.svg' alt='star' key={index} width={24} height={24}/>
+                        <Image src='/images/star.svg' alt='star' key={index} width={24} height={24}/>
                     ))}
                 </div>
             
@@ -57,7 +57,7 @@ function Hero() {
                 <div className='flex flex-col'>
                     <div className='flexBetween'>
                         <p className='regular-16 text-gray-20'>Location</p>
-                        <Image src="/CampTraveller/images/close.svg" alt='close' height={24} width={24}/>
+                        <Image src="/images/close.svg" alt='close' height={24} width={24}/>
                     </div>
                     <p className='bold-20 text-white'>Aguas Cellentes</p>
                 </div>
