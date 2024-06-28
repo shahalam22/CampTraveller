@@ -29,7 +29,7 @@ function Features() {
         <div className='max-container padding-container relative flex w-full justify-end'>
             <div className='flex flex-1 lg:min-h-[900px]'>
                 <Image 
-                    src='/phone.png'
+                    src='https://shahalam22.github.io/CampTraveller/phone.png'
                     alt='phone'
                     height={1000}
                     width={440}
@@ -40,7 +40,7 @@ function Features() {
             <div className='z-20 flex w-full flex-col lg:w-[60%]'>
                 <div className='relative'>
                     <Image 
-                        src='/camp.svg'
+                        src='https://shahalam22.github.io/CampTraveller/camp.svg'
                         alt='camp'
                         height={50}
                         width={50}
