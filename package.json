@@ -2,7 +2,7 @@
   "name": "camp_traveller",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<username>.github.io/CampTraveller",
+  "homepage": "https://shahalam22.github.io/CampTraveller",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
