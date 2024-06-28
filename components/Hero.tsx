@@ -57,7 +57,7 @@ function Hero() {
                 <div className='flex flex-col'>
                     <div className='flexBetween'>
                         <p className='regular-16 text-gray-20'>Location</p>
-                        <Image src="/images/close.svg" alt='close' height={24} width={24}/>
+                        <Image src="https://shahalam22.github.io/CampTraveller/close.svg" alt='close' height={24} width={24}/>
                     </div>
                     <p className='bold-20 text-white'>Aguas Cellentes</p>
                 </div>
